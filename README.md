@@ -4,6 +4,22 @@
 
 With over **8 years of experience**, I specialize in building high-scale international platforms and architecting robust cloud infrastructures. My expertise lies in the **JavaScript/TypeScript ecosystem**, focusing on performance, scalability, and clean system design.
 
+---
+
+
+### 🛠 Technical Ecosystem
+
+#### 🌍 Languages & Core
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,py&theme=dark" />
+
+#### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+
+#### ☁️ Infrastructure & Databases
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,redis&theme=dark" />
+
+---
+
 - 🛠️ **Current Focus:** Engineering high-performance PWAs and serverless architectures at **Smartegy** using **Next.js**, **TypeScript**, and **AWS** (Lambda, RDS, Cognito).
 - 📈 **Proven Impact:** Scaled ride-hailing systems across Egypt, Pakistan, and Jordan (at **Ego**) and delivered IoT solutions for major telecom providers like **SKY Brazil**.
 - 🎓 **Tech Leadership:** Former Lead Instructor at **General Assembly** & **SAFCSP**, mentoring developers and driving technical excellence through deep-dive workshops.
@@ -28,23 +44,16 @@ With over **8 years of experience**, I specialize in building high-scale interna
 ![Top Langs](https://github-readme-stats.vercel.app/?username=adnba&layout=compact&theme=react) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnba&theme=react)
 
----
-
-### 🛠 Technical Ecosystem
-
-#### 🌍 Languages & Core
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,&theme=dark" />
-
-#### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
-
-#### ☁️ Infrastructure & Databases
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,redis&theme=dark" />
 
 
+> [!NOTE]
+> **Enterprise & Private Work**  
+> Most of my recent high-scale architectures (scaling platforms for millions of users and cloud infrastructures) are hosted in private enterprise repositories. I am happy to provide a **technical walkthrough** or **live demo** of my architectural approach and code standards during an interview. 
+>
+> **[Reach out via LinkedIn](https://www.linkedin.com/in/adnen-ben-amor/) to discuss my professional portfolio.**
 
 ---
 
 ### 📫 Let's Build Something Great
 - 💼 [LinkedIn](https://www.linkedin.com/in/adnen-ben-amor/)
-- 📧 [Email](mailto:adnen.benamore@email.com)
+- 📧 [Email](mailto:adnen.benamore@gmail.com)
