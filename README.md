@@ -17,15 +17,31 @@ With over **8 years of experience**, I specialize in building high-scale interna
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | Next.js, React, Redux, TypeScript, Tailwind CSS, React Native |
-| **Backend** | Node.js, Express, NestJS, Python, Microservices |
+| **Backend** | Node.js, Express, Lambda, Python, Microservices |
 | **Data & Cache** | PostgreSQL, MongoDB, Redis, MySQL |
-| **Cloud & DevOps** | AWS (Full Suite), Docker, CloudFormation, CI/CD, Nginx |
+| **Cloud & DevOps** | AWS (Full Suite), Docker, Github Actions, CloudFormation, CI/CD, Nginx |
 
 ---
 
 ### 📊 Performance & Contributions
-![Your GitHub stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/?username=adnba&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/?username=adnba&layout=compact&theme=react) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnba&theme=react)
+
+---
+
+### 🛠 Technical Ecosystem
+
+#### 🌍 Languages & Core
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,&theme=dark" />
+
+#### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+
+#### ☁️ Infrastructure & Databases
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,redis&theme=dark" />
+
+
 
 ---
 
